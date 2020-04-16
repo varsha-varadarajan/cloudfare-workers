@@ -1,3 +1,7 @@
+### Deployment
+
+Deployed at [https://internship.varsha.workers.dev/](https://internship.varsha.workers.dev/)
+
 ## What is it?
 
 Using Cloudflare Workers, you'll deploy an application that will randomly send users to one of two webpages. This project will teach you how to write applications with the Cloudflare Workers API, manage and develop them using the command-line tool Wrangler, and deploy them to the free workers.dev deployment playground.
@@ -20,7 +24,3 @@ To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command
 ### 2. Generate a new project using `wrangler generate` command
 
 Using the `generate` command (covered in the Quick Start), generate a new project with a name of your choice:
-
-### 3. Deployment
-
-Deployed at [https://internship.varsha.workers.dev/](https://github.com/cloudflare/wrangler)
